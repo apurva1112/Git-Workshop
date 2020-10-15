@@ -1,2 +1,4 @@
 # Git-Workshop
-List of people who attended this workshop
+*Organized by - Apurva Agrawal*
+
+*List of people who attended this workshop*
